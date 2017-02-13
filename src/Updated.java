@@ -5,6 +5,6 @@ public class Updated {
     private String myNewConflictedString;
 
     public Updated(String myString) {
-        this.myString = myString;
+        this.myNewConflictedString = myNewConflictedString;
     }
 }
