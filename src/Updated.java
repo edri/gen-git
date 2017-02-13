@@ -3,6 +3,7 @@
  */
 public class Updated {
     private String myString;
+    private String myBranchString;
     private int myInt;
 
     public Updated(String myString) {
